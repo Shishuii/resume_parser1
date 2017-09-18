@@ -3,5 +3,5 @@ Resumes are in a general format of INTERNSHALA.
 
 Extra dependencies include:
 
- pdfminer
-python version used in 2.7
+ pdfminer,pandas .
+python version used is 2.7
